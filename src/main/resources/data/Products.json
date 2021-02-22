@@ -1,0 +1,172 @@
+[
+
+	{
+		"PogId": "01",
+		"Supc": "Amazon",
+		"Brand": "Samsung",
+		"Description": "TabletS1",
+		"Size": "12",
+		"Category": "Hardware",
+		"SubCategory": "Tablet",
+		"Price": "15000",
+		"Quantity": "10",
+		"Country": "INDIA",
+		"SellerCode": "SC1120",
+		"CreationTime": "0",
+		"Stock": "AVL"
+
+
+	},
+	{
+		"PogId": "02",
+		"Supc": "Flipkart",
+		"Brand": "Samsung",
+		"Description": "TabletS2",
+		"Size": "15",
+		"Category": "Hardware",
+		"SubCategory": "Tablet",
+		"Price": "25000",
+		"Quantity": "10",
+		"Country": "INDIA",
+		"SellerCode": "SC1121",
+		"CreationTime": "0",
+		"Stock": "AVL"
+
+
+	},
+	{
+		"PogId": "03",
+		"Supc": "Snapdeal",
+		"Brand": "Samsung",
+		"Description": "TabletS3",
+		"Size": "12",
+		"Category": "Hardware",
+		"SubCategory": "Tablet",
+		"Price": "20000",
+		"Quantity": "10",
+		"Country": "INDIA",
+		"SellerCode": "SC1122",
+		"CreationTime": "0",
+		"Stock": "AVL"
+
+
+	},
+	{
+		"PogId": "04",
+		"Supc": "Amazon",
+		"Brand": "Samsung",
+		"Description": "laptop",
+		"Size": "21",
+		"Category": "Hardware",
+		"SubCategory": "Laptop",
+		"Price": "75000",
+		"Quantity": "10",
+		"Country": "INDIA",
+		"SellerCode": "SC1123",
+		"CreationTime": "0",
+		"Stock": "AVL"
+
+
+	},
+	{
+		"PogId": "05",
+		"Supc": "Flipkart",
+		"Brand": "Apple",
+		"Description": "Laptop",
+		"Size": "19",
+		"Category": "Hardware",
+		"SubCategory": "Tablet",
+		"Price": "85000",
+		"Quantity": "10",
+		"Country": "INDIA",
+		"SellerCode": "SC1120",
+		"CreationTime": "0",
+		"Stock": "AVL"
+
+
+	},
+	{
+		"PogId": "06",
+		"Supc": "Snapdeal",
+		"Brand": "Sony",
+		"Description": "Laptop",
+		"Size": "23",
+		"Category": "Hardware",
+		"SubCategory": "Laptop",
+		"Price": "85000",
+		"Quantity": "10",
+		"Country": "INDIA",
+		"SellerCode": "SC1125",
+		"CreationTime": "0",
+		"Stock": "AVL"
+
+
+	},
+	{
+		"PogId": "07",
+		"Supc": "Amazon",
+		"Brand": "Apple",
+		"Description": "i11",
+		"Size": "12",
+		"Category": "Hardware",
+		"SubCategory": "Mobile",
+		"Price": "95000",
+		"Quantity": "10",
+		"Country": "INDIA",
+		"SellerCode": "SC1120",
+		"CreationTime": "0",
+		"Stock": "AVL"
+
+
+	},
+	{
+		"PogId": "08",
+		"Supc": "Flipkart",
+		"Brand": "JBL",
+		"Description": "Speakers",
+		"Size": "12",
+		"Category": "Hardware",
+		"SubCategory": "Speakers",
+		"Price": "35000",
+		"Quantity": "10",
+		"Country": "INDIA",
+		"SellerCode": "SC1127",
+		"CreationTime": "0",
+		"Stock": "AVL"
+
+
+	},
+	{
+		"PogId": "09",
+		"Supc": "Myntra",
+		"Brand": "Adidas",
+		"Description": "Shoes",
+		"Size": "10",
+		"Category": "Shoes",
+		"SubCategory": "SportsShoes",
+		"Price": "15000",
+		"Quantity": "10",
+		"Country": "INDIA",
+		"SellerCode": "SC1129",
+		"CreationTime": "0",
+		"Stock": "AVL"
+
+
+	},
+	{
+		"PogId": "10",
+		"Supc": "Myntra",
+		"Brand": "Nike",
+		"Description": "TSHirts",
+		"Size": "Large",
+		"Category": "Cloths",
+		"SubCategory": "MensWear",
+		"Price": "1000",
+		"Quantity": "10",
+		"Country": "INDIA",
+		"SellerCode": "SC11290",
+		"CreationTime": "0",
+		"Stock": "AVL"
+
+
+	}]

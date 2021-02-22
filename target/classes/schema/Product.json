@@ -1,0 +1,46 @@
+{
+  "type": "object",
+  "javaType": "com.capstone.model.Product",
+  "properties": {
+    "PogId": {
+      "type": "string"
+    },
+    "Supc": {
+      "type": "string"
+    },
+    "Brand": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    },
+    "Size": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "SubCategory": {
+      "type": "string"
+    },
+    "Price": {
+      "type": "number"
+    },
+    "Quantity": {
+      "type": "integer"
+    },
+    "Country": {
+      "type": "string"
+    },
+    "SellerCode": {
+      "type": "string"
+    },
+    "CreationTime": {
+      "javaType": "java.lang.Long",
+      "type": "object"
+    },
+    "Stock": {
+      "type": "string"
+    }
+  }
+}
